@@ -25,7 +25,7 @@ Overall this project uses GPIO, keypad scanning, external and timer interrupts, 
 </p>
 
 <p align="center">
-  <img src="IMAGE/CallGraph_FinalProject_MarlonMorales.png" width="800" alt="Call Graph" />
+  <img src="IMAGE/CallGraph_FinalProject_MarlonMorales.png" width="1200" alt="Call Graph" />
 </p>
 
 <p align="center">
