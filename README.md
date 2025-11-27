@@ -24,5 +24,10 @@ Overall this project uses GPIO, keypad scanning, external and timer interrupts, 
   <img src="IMAGE/DesignImage01.jpg" width="450" alt="Hardware setup: Nucleo board, LCD, keypad, LM35 sensor" />
 </p>
 
+<p align="center">
+  <img src="IMAGE/CallGraph_FinalProject_MarlonMorales.png" width="450" alt="Call Graph" />
+</p>
 
-
+<p align="center">
+  <img src="IMAGE/SimpleFlowchart_FinalProject_MarlonMorales.png" width="450" alt="Call Graph" />
+</p>
