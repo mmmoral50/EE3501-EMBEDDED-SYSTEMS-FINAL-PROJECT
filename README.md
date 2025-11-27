@@ -16,3 +16,16 @@
   project designed to update and display time and LM35 temperature every second in normal mode. Set mode lets the user enter a new time with the keypad.
 Overall this project uses GPIO, keypad scanning, external and timer interrupts, and ADC readings to compute and display temperature in °C or °F.
 </p>
+---
+
+## Design Images
+
+<p align="center">
+  <img src="IMAGE/DesignImage01.jpg" width="450" alt="System design / call graph / flowchart" />
+</p>
+
+<p align="center">
+  <img src="IMAGE/DesignImage02.jpg" width="450" alt="Hardware setup: Nucleo board, LCD, keypad, LM35 sensor" />
+</p>
+
+---
